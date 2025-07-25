@@ -1,0 +1,768 @@
+﻿Element,Geschlecht,Gebäude,Medium,Politsch partizipativ,Politisches Thema,Kommunikation,Moderation (passiv),Moderation (aktiv),Digitale Vernetzung,Aktualität
+F-HG-K1-S1,Frauen,Hauptgebäude,Sticker,Yes,Sonstige,Kommentar,Abgekratzt,Überklebend,Keine,Zeitlos
+F-HG-K1-S2,Frauen,Hauptgebäude,Sticker,Yes,"Feminismus, LGBTQIA+, TU Berlin",Kommentar,"Abgekratzt, Überklebt",,Keine,Zeitangabe (z.B. Datum)
+F-HG-K1-S3,Frauen,Hauptgebäude,Sticker,Yes,Feminismus,Kommentar,Abgekratzt,,"Email-Adresse, Soziale Medien",Zeitlos
+F-HG-K1-S4,Frauen,Hauptgebäude,Sticker,Yes,Antifaschismus / gegen Rechtsextremismus,Kommentar,Abgekratzt,,Soziale Medien,Zeitlos
+F-HG-K1-S5,Frauen,Hauptgebäude,Sticker,Yes,Antifaschismus / gegen Rechtsextremismus,Kommentar,"Abgekratzt, Überschrieben",,Nicht erkenntlich,Nicht erkenntlich
+F-HG-K1-S6,Frauen,Hauptgebäude,Sticker,Yes,LGBTQIA+,Kommentar,Überschrieben,,Webseite,Zeitlos
+F-HG-K1-T1,Frauen,Hauptgebäude,Text,No,,,Abgewischt,,Keine,Zeitlos
+F-HG-K1-T2,Frauen,Hauptgebäude,Text,No,,,,,Keine,Zeitlos
+F-HG-K1-T3,Frauen,Hauptgebäude,Text,No,,,Abgewischt,,Keine,Zeitlos
+F-HG-K1-T4,Frauen,Hauptgebäude,Text,No,,,,,,
+F-HG-K1-T5,Frauen,Hauptgebäude,Text,No,,,,,Keine,Zeitlos
+F-HG-K1-T6,Frauen,Hauptgebäude,Text,No,,,Abgewischt,,Keine,Zeitlos
+F-HG-K1-TZ1,Frauen,Hauptgebäude,Text + Zeichnung,Yes,"Feminismus, Sonstige",Kommentar,"Abgewischt, Überklebt",,Keine,Zeitlos
+F-HG-K1-TZ2,Frauen,Hauptgebäude,Text + Zeichnung,No,,,,,Keine,Zeitlos
+F-HG-K1-Z1,Frauen,Hauptgebäude,Zeichnung,No,,,,,Keine,Zeitlos
+F-HG-K1-Z2,Frauen,Hauptgebäude,Zeichnung,No,,,,,Keine,Zeitlos
+F-HG-K1-Z3,Frauen,Hauptgebäude,Zeichnung,Yes,Anarchie,Kommentar,,,Keine,Zeitlos
+F-HG-K1-Z4,Frauen,Hauptgebäude,Zeichnung,No,,,,,Keine,Zeitlos
+F-HG-K2-P1,Frauen,Hauptgebäude,Poster,No,,,,,QR-Code,Zeitlos
+F-HG-K2-P2,Frauen,Hauptgebäude,Poster,Yes,Israel / Palästina,Kommentar,Abgekratzt,Überklebend,Nicht erkenntlich,Nicht erkenntlich
+F-HG-K2-P3,Frauen,Hauptgebäude,Poster,Yes,"Anarchie, LGBTQIA+",Kommentar,Abgekratzt,,Nicht erkenntlich,Nicht erkenntlich
+F-HG-K2-S1,Frauen,Hauptgebäude,Sticker,Yes,"Berliner Politik, Kapitalismuskritik",Kommentar,Abgekratzt,,Webseite,Zeitbezug (z.B. Ereignis)
+F-HG-K2-S2,Frauen,Hauptgebäude,Sticker,Yes,Antifaschismus / gegen Rechtsextremismus,Kommentar,,,Keine,Zeitlos
+F-HG-K2-S3,Frauen,Hauptgebäude,Sticker,Yes,"Feminismus, LGBTQIA+, TU Berlin",Kommentar,,,Keine,Zeitlos
+F-HG-K2-S4,Frauen,Hauptgebäude,Sticker,No,,,"Abgekratzt, Überschrieben",,Webseite,Zeitlos
+F-HG-K2-S5,Frauen,Hauptgebäude,Sticker,Yes,"Berliner Politik, Kapitalismuskritik",Kommentar,,,Webseite,Zeitangabe (z.B. Datum)
+F-HG-K2-S6,Frauen,Hauptgebäude,Sticker,No,,,"Abgekratzt, Überklebt",,Webseite,Zeitlos
+F-HG-K2-S7,Frauen,Hauptgebäude,Sticker,No,,,Abgekratzt,,Keine,Zeitlos
+F-HG-K2-S8,Frauen,Hauptgebäude,Sticker,No,,,,,QR-Code,Zeitangabe (z.B. Datum)
+F-HG-K2-S9,Frauen,Hauptgebäude,Sticker,Yes,Nachhaltigkeit / Umwelt,Kommentar,Abgekratzt,,Nicht erkenntlich,Nicht erkenntlich
+F-HG-K2-S10,Frauen,Hauptgebäude,Sticker,No,,,,,"QR-Code, Telefonnummer, Webseite",Zeitlos
+F-HG-K2-S11,Frauen,Hauptgebäude,Sticker,Yes,"Nachhaltigkeit / Umwelt, TU Berlin, Tierschutz",Kommentar,,,QR-Code,Zeitlos
+F-HG-K2-S12,Frauen,Hauptgebäude,Sticker,Yes,Antifaschismus / gegen Rechtsextremismus,Kommentar,Abgekratzt,,Soziale Medien,Zeitlos
+F-HG-K2-S13,Frauen,Hauptgebäude,Sticker,Yes,Feminismus,Kommentar,Abgekratzt,,Soziale Medien,Zeitlos
+F-HG-K2-T1,Frauen,Hauptgebäude,Text,No,,,,,Keine,Zeitlos
+F-HG-K2-T2,Frauen,Hauptgebäude,Text,No,,,,,Keine,Zeitlos
+F-HG-K2-T3,Frauen,Hauptgebäude,Text,Yes,"Nachhaltigkeit / Umwelt, TU Berlin",Antwort,Überklebt,,Keine,Zeitlos
+F-HG-K2-T4,Frauen,Hauptgebäude,Text,No,,,,,Keine,Zeitlos
+F-HG-K2-T5,Frauen,Hauptgebäude,Text,No,,,,,Keine,Zeitlos
+F-HG-K2-T6,Frauen,Hauptgebäude,Text,No,,,Abgewischt,,Keine,Zeitlos
+F-HG-K2-T7,Frauen,Hauptgebäude,Text,No,,,,,Keine,Zeitlos
+F-HG-K2-T8,Frauen,Hauptgebäude,Text,No,,,,,Keine,Zeitlos
+F-HG-K2-T9,Frauen,Hauptgebäude,Text,No,,,,,Keine,Zeitlos
+F-HG-K2-T10,Frauen,Hauptgebäude,Text,No,,,,,Keine,Zeitlos
+F-HG-K2-T11,Frauen,Hauptgebäude,Text,No,,,,,Keine,Zeitlos
+F-HG-K2-T12,Frauen,Hauptgebäude,Text,No,,,,,Keine,Zeitlos
+F-HG-K2-T13,Frauen,Hauptgebäude,Text,No,,,,,Keine,Zeitlos
+F-HG-K2-T14,Frauen,Hauptgebäude,Text,No,,,,,Keine,Zeitlos
+F-HG-K2-TZ1,Frauen,Hauptgebäude,Text + Zeichnung,No,,,,,Keine,Zeitlos
+F-HG-K2-TZ2,Frauen,Hauptgebäude,Text + Zeichnung,No,,,,,Keine,Zeitlos
+F-HG-K2-TZ3,Frauen,Hauptgebäude,Text + Zeichnung,No,,,,,Keine,Zeitlos
+F-HG-K2-Z1,Frauen,Hauptgebäude,Zeichnung,Yes,Sonstige,Kommentar,Abgewischt,,Keine,Zeitlos
+F-HG-K2-Z2,Frauen,Hauptgebäude,Zeichnung,No,,,,,Keine,Zeitlos
+F-HG-K3-P1,Frauen,Hauptgebäude,Poster,No,,,,,Keine,Zeitangabe (z.B. Datum)
+F-HG-K3-S1,Frauen,Hauptgebäude,Sticker,Yes,"Berliner Politik, Kapitalismuskritik",Kommentar,Überklebt,,Webseite,Zeitangabe (z.B. Datum)
+F-HG-K3-S2,Frauen,Hauptgebäude,Sticker,No,,,Abgekratzt,,Webseite,Zeitlos
+F-HG-K3-S3,Frauen,Hauptgebäude,Sticker,No,,,,,Soziale Medien,Zeitlos
+F-HG-K3-S4,Frauen,Hauptgebäude,Sticker,No,,,,,"QR-Code, Telefonnummer, Webseite",Zeitlos
+F-HG-K3-S5,Frauen,Hauptgebäude,Sticker,No,,,,,QR-Code,Zeitangabe (z.B. Datum)
+F-HG-K3-S6,Frauen,Hauptgebäude,Sticker,No,,,,,"Soziale Medien, Webseite",Zeitlos
+F-HG-K3-S7,Frauen,Hauptgebäude,Sticker,No,,,,,QR-Code,Zeitlos
+F-HG-K3-S8,Frauen,Hauptgebäude,Sticker,No,,,,,Keine,Zeitlos
+F-HG-K3-S9,Frauen,Hauptgebäude,Sticker,Yes,"Berliner Politik, Kapitalismuskritik",Kommentar,Abgekratzt,,Webseite,Zeitbezug (z.B. Ereignis)
+F-HG-K3-S10,Frauen,Hauptgebäude,Sticker,No,,,Abgekratzt,,,
+F-HG-K3-S11,Frauen,Hauptgebäude,Sticker,Yes,"BIPoC, TU Berlin",Kommentar,"Abgekratzt, Überklebt, Überschrieben",,Keine,Zeitangabe (z.B. Datum)
+F-HG-K3-S12,Frauen,Hauptgebäude,Sticker,No,,,,,Keine,Zeitlos
+F-HG-K3-S13,Frauen,Hauptgebäude,Sticker,Yes,"Berliner Politik, Nachhaltigkeit / Umwelt",Kommentar,Abgekratzt,,Nicht erkenntlich,Zeitbezug (z.B. Ereignis)
+F-HG-K3-S14,Frauen,Hauptgebäude,Sticker,No,,,Abgekratzt,,Keine,Zeitlos
+F-HG-K3-S15,Frauen,Hauptgebäude,Sticker,No,,,Überschrieben,,QR-Code,Zeitangabe (z.B. Datum)
+F-HG-K3-T1,Frauen,Hauptgebäude,Text,No,,,,,Keine,Zeitlos
+F-HG-K3-T2,Frauen,Hauptgebäude,Text,No,,,,,Keine,Zeitlos
+F-HG-K3-T3,Frauen,Hauptgebäude,Text,Yes,Nachhaltigkeit / Umwelt,Kommentar,Abgewischt,,Keine,Zeitlos
+F-HG-K3-T4,Frauen,Hauptgebäude,Text,Yes,Nachhaltigkeit / Umwelt,Antwort,Überschrieben,,Keine,Zeitlos
+F-HG-K3-T5,Frauen,Hauptgebäude,Text,Yes,Nachhaltigkeit / Umwelt,Antwort,Abgewischt,,Keine,Zeitlos
+F-HG-K3-T6,Frauen,Hauptgebäude,Text,No,,,,,Keine,Zeitlos
+F-HG-K3-T7,Frauen,Hauptgebäude,Text,No,,,,,Keine,Zeitlos
+F-HG-K3-T8,Frauen,Hauptgebäude,Text,No,,,,,,
+F-HG-K3-T9,Frauen,Hauptgebäude,Text,No,,,,,Keine,Zeitlos
+F-HG-K3-TZ1,Frauen,Hauptgebäude,Text + Zeichnung,No,,,,,Keine,Zeitlos
+F-HG-K3-Z1,Frauen,Hauptgebäude,Zeichnung,No,,,,,Keine,Zeitlos
+F-HG-K4-S1,Frauen,Hauptgebäude,Sticker,Yes,Sonstige,Kommentar,,,Webseite,Zeitlos
+F-HG-K4-S2,Frauen,Hauptgebäude,Sticker,Yes,Migration,Kommentar,Abgekratzt,,Nicht erkenntlich,Nicht erkenntlich
+F-HG-K4-S3,Frauen,Hauptgebäude,Sticker,Yes,Sonstige,Kommentar,Abgekratzt,,Nicht erkenntlich,Nicht erkenntlich
+F-HG-K4-S4,Frauen,Hauptgebäude,Sticker,Yes,"Berliner Politik, Kapitalismuskritik",Kommentar,,,Webseite,Zeitangabe (z.B. Datum)
+F-HG-K4-S5,Frauen,Hauptgebäude,Sticker,Yes,"Feminismus, LGBTQIA+, TU Berlin",Kommentar,"Abgekratzt, Überklebt",,Keine,Zeitangabe (z.B. Datum)
+F-HG-K4-S6,Frauen,Hauptgebäude,Sticker,No,,,Abgekratzt,,"QR-Code, Webseite",Zeitlos
+F-HG-K4-S7,Frauen,Hauptgebäude,Sticker,No,,,,,"QR-Code, Telefonnummer, Webseite",Zeitlos
+F-HG-K4-S8,Frauen,Hauptgebäude,Sticker,No,,,,,QR-Code,Zeitangabe (z.B. Datum)
+F-HG-K4-S9,Frauen,Hauptgebäude,Sticker,Yes,TU Berlin,Kommentar,Abgekratzt,,Keine,Zeitangabe (z.B. Datum)
+F-HG-K4-S10,Frauen,Hauptgebäude,Sticker,Yes,"Berliner Politik, Nachhaltigkeit / Umwelt",Kommentar,Abgekratzt,,Webseite,Zeitbezug (z.B. Ereignis)
+F-HG-K4-S11,Frauen,Hauptgebäude,Sticker,No,,,,,Soziale Medien,Zeitlos
+F-HG-K4-S12,Frauen,Hauptgebäude,Sticker,Yes,"BIPoC, Berliner Politik, Feminismus, Kapitalismuskritik, LGBTQIA+",Kommentar,,,"QR-Code, Soziale Medien",Zeitlos
+F-HG-K4-S13,Frauen,Hauptgebäude,Sticker,Yes,Israel / Palästina,Antwort,,Überklebend,Keine,Zeitlos
+F-HG-K4-S14,Frauen,Hauptgebäude,Sticker,Yes,"Israel / Palästina, LGBTQIA+",Antwort,,Überklebend,Keine,Zeitlos
+F-HG-K4-S15,Frauen,Hauptgebäude,Sticker,No,,,Abgekratzt,,"QR-Code, Webseite",Zeitlos
+F-HG-K4-S16,Frauen,Hauptgebäude,Sticker,Yes,"BIPoC, LGBTQIA+",Kommentar,"Abgekratzt, Überschrieben",,Webseite,Zeitlos
+F-HG-K4-T1,Frauen,Hauptgebäude,Text,No,,,,,Keine,Zeitlos
+F-HG-K4-T2,Frauen,Hauptgebäude,Text,No,,,,,,
+F-HG-K4-T3,Frauen,Hauptgebäude,Text,Yes,Tierschutz,Antwort,Abgewischt,,Keine,Zeitlos
+F-HG-K4-T4,Frauen,Hauptgebäude,Text,Yes,Tierschutz,Kommentar,Abgewischt,,Keine,Zeitlos
+F-HG-K4-T5,Frauen,Hauptgebäude,Text,No,,,,,,
+F-HG-K4-T6,Frauen,Hauptgebäude,Text,No,,,,,Keine,Zeitlos
+F-HG-K4-T7,Frauen,Hauptgebäude,Text + Zeichnung,No,,,,,Keine,Zeitlos
+F-HG-K4-T8,Frauen,Hauptgebäude,Text + Zeichnung,No,,,"Abgewischt, Überschrieben",,Keine,Zeitlos
+F-HG-K4-T9,Frauen,Hauptgebäude,Text,No,,,Abgewischt,,Keine,Zeitlos
+F-HG-K4-T10,Frauen,Hauptgebäude,Text,Yes,Türkei / Erdogan,Kommentar,Überschrieben,,Keine,Zeitlos
+F-HG-K4-T11,Frauen,Hauptgebäude,Text,No,,,,,Keine,Zeitlos
+F-HG-K4-T12,Frauen,Hauptgebäude,Text,Yes,Antifaschismus / gegen Rechtsextremismus,Kommentar,"Abgewischt, Überschrieben",,Keine,Zeitlos
+F-HG-K4-T13,Frauen,Hauptgebäude,Text,Yes,Sonstige,Kommentar,Abgewischt,,Keine,Zeitlos
+F-HG-K4-T14,Frauen,Hauptgebäude,Text,No,,,Abgewischt,,Keine,Zeitlos
+F-HG-K4-T15,Frauen,Hauptgebäude,Text,No,,,,,Keine,Zeitlos
+F-HG-K4-TZ1,Frauen,Hauptgebäude,Text + Zeichnung,No,,,Abgewischt,,Keine,Zeitlos
+F-HG-K4-TZ2,Frauen,Hauptgebäude,Text + Zeichnung,No,,,Abgewischt,,Keine,Zeitlos
+F-HG-K4-TZ3,Frauen,Hauptgebäude,Text + Zeichnung,Yes,"Nachhaltigkeit / Umwelt, Tierschutz",Antwort,Abgewischt,,Keine,Zeitlos
+F-HG-K4-TZ4,Frauen,Hauptgebäude,Text + Zeichnung,Yes,"Berliner Politik, Feminismus, LGBTQIA+, Nachhaltigkeit / Umwelt, TU Berlin",Antwort,"Abgewischt, Überklebt",,Keine,Zeitlos
+F-HG-K4-TZ5,Frauen,Hauptgebäude,Text + Zeichnung,Yes,"Israel / Palästina, Türkei / Erdogan",Antwort,,Überschreibend,Keine,Zeitlos
+F-HG-K4-Z1,Frauen,Hauptgebäude,Zeichnung,Yes,Sonstige,Kommentar,,,Keine,Zeitlos
+F-HG-K4-Z2,Frauen,Hauptgebäude,Zeichnung,No,,,,,Keine,Zeitlos
+F-HG-K4-Z3,Frauen,Hauptgebäude,Zeichnung,No,,,Abgewischt,,Keine,Zeitlos
+F-HG-K4-Z4,Frauen,Hauptgebäude,Zeichnung,No,,,Überklebt,,Keine,Zeitlos
+F-HG-K5-P1,Frauen,Hauptgebäude,Poster,No,,,"Abgekratzt, Zerknickt",,Keine,Zeitangabe (z.B. Datum)
+F-HG-K5-P2,Frauen,Hauptgebäude,Poster,No,,,"Abgekratzt, Zerknickt",,QR-Code,Zeitlos
+F-HG-K5-P3,Frauen,Hauptgebäude,Poster,Yes,Israel / Palästina,Kommentar,"Abgekratzt, Überklebt",,Nicht erkenntlich,Nicht erkenntlich
+F-HG-K5-S1,Frauen,Hauptgebäude,Sticker,No,,,Überschrieben,,"QR-Code, Telefonnummer, Webseite",Zeitlos
+F-HG-K5-S2,Frauen,Hauptgebäude,Sticker,No,,,,,"QR-Code, Webseite",Zeitlos
+F-HG-K5-S3,Frauen,Hauptgebäude,Sticker,No,,,,,"QR-Code, Soziale Medien, Webseite",Zeitlos
+F-HG-K5-S4,Frauen,Hauptgebäude,Sticker,No,,,,,Keine,Zeitlos
+F-HG-K5-S5,Frauen,Hauptgebäude,Sticker,No,,,,,QR-Code,Zeitangabe (z.B. Datum)
+F-HG-K5-S6,Frauen,Hauptgebäude,Sticker,Yes,"BIPoC, TU Berlin",Kommentar,"Abgekratzt, Überklebt, Überschrieben",,Keine,Zeitangabe (z.B. Datum)
+F-HG-K5-S7,Frauen,Hauptgebäude,Sticker,No,,,,,"Soziale Medien, Webseite",Zeitlos
+F-HG-K5-S8,Frauen,Hauptgebäude,Sticker,No,,,,,"QR-Code, Webseite",Zeitlos
+F-HG-K5-S9,Frauen,Hauptgebäude,Sticker,No,,,,,Keine,Zeitlos
+F-HG-K5-T1,Frauen,Hauptgebäude,Text + Zeichnung,No,,,Überschrieben,,Keine,Zeitlos
+F-HG-K5-T2,Frauen,Hauptgebäude,Text,No,,,,,Keine,Zeitlos
+F-HG-K5-T3,Frauen,Hauptgebäude,Text + Zeichnung,No,,,,,Keine,Zeitlos
+F-HG-K5-T4,Frauen,Hauptgebäude,Text + Zeichnung,No,,,,,Keine,Zeitlos
+F-HG-K6-P1,Frauen,Hauptgebäude,Poster,No,,,,,Keine,Zeitangabe (z.B. Datum)
+F-HG-K6-S1,Frauen,Hauptgebäude,Sticker,No,,,Abgekratzt,,Keine,Zeitlos
+F-HG-K6-S2,Frauen,Hauptgebäude,Sticker,No,,,,,Soziale Medien,Zeitlos
+F-HG-K6-S3,Frauen,Hauptgebäude,Sticker,No,,,,,Soziale Medien,Zeitlos
+F-HG-K6-S4,Frauen,Hauptgebäude,Sticker,No,,,Abgekratzt,,Webseite,Zeitlos
+F-HG-K6-S5,Frauen,Hauptgebäude,Sticker,Yes,Tierschutz,Kommentar,"Abgekratzt, Überklebt",,"Soziale Medien, Webseite",Zeitangabe (z.B. Datum)
+F-HG-K6-T1,Frauen,Hauptgebäude,Text,No,,,,,Keine,Zeitlos
+F-HG-K6-T2,Frauen,Hauptgebäude,Text,No,,,,,Keine,Zeitlos
+F-HG-K7-P1,Frauen,Hauptgebäude,Poster,Yes,Israel / Palästina,Kommentar,"Abgekratzt, Überschrieben",,Nicht erkenntlich,Nicht erkenntlich
+F-HG-K7-S1,Frauen,Hauptgebäude,Sticker,Yes,Antifaschismus / gegen Rechtsextremismus,Kommentar,Abgekratzt,,Keine,Zeitlos
+F-HG-K7-S2,Frauen,Hauptgebäude,Sticker,Yes,"Antifaschismus / gegen Rechtsextremismus, Partei",Kommentar,,,Keine,Zeitlos
+F-HG-K7-S3,Frauen,Hauptgebäude,Sticker,Yes,TU Berlin,Kommentar,,,Keine,Zeitangabe (z.B. Datum)
+F-HG-K7-S4,Frauen,Hauptgebäude,Sticker,Yes,"Nachhaltigkeit / Umwelt, TU Berlin, Tierschutz",Kommentar,,,QR-Code,Zeitlos
+F-HG-K7-S5,Frauen,Hauptgebäude,Sticker,No,,,,,QR-Code,Zeitlos
+F-HG-K7-S6,Frauen,Hauptgebäude,Sticker,Yes,Nachhaltigkeit / Umwelt,Kommentar,Abgekratzt,,Webseite,Zeitangabe (z.B. Datum)
+F-HG-K7-S7,Frauen,Hauptgebäude,Sticker,No,,,,,QR-Code,Zeitangabe (z.B. Datum)
+F-HG-K7-S8,Frauen,Hauptgebäude,Sticker,No,,,,,QR-Code,Zeitlos
+F-HG-K7-T1,Frauen,Hauptgebäude,Text,No,,,,,Keine,Zeitlos
+F-HG-K7-T2,Frauen,Hauptgebäude,Text,No,,,Abgewischt,,Keine,Zeitlos
+F-HG-K7-T3,Frauen,Hauptgebäude,Text,Yes,Israel / Palästina,Kommentar,,,Keine,Zeitlos
+F-HG-K7-T4,Frauen,Hauptgebäude,Text,Yes,Anarchie,Kommentar,Überschrieben,,Keine,Zeitlos
+F-HG-K7-T5,Frauen,Hauptgebäude,Text,Yes,Polizei,Kommentar,Abgewischt,,Keine,Zeitlos
+F-HG-K7-T6,Frauen,Hauptgebäude,Text,Yes,"Feminismus, LGBTQIA+",Antwort,,,Keine,Zeitlos
+F-HG-K7-T7,Frauen,Hauptgebäude,Text,No,,,,,,
+F-HG-K7-T8,Frauen,Hauptgebäude,Text,No,,,,,,
+F-HG-K7-T9,Frauen,Hauptgebäude,Text,No,,,,,,
+F-HG-K7-TZ1,Frauen,Hauptgebäude,Text + Zeichnung,No,,,,,,
+F-HG-K7-TZ2,Frauen,Hauptgebäude,Text + Zeichnung,No,,,,,,
+F-HG-K7-TZ3,Frauen,Hauptgebäude,Text + Zeichnung,Yes,"Feminismus, LGBTQIA+",Kommentar,Überklebt,,Keine,Zeitlos
+F-HG-K7-Z1,Frauen,Hauptgebäude,Zeichnung,Yes,Anarchie,Kommentar,,,Keine,Zeitlos
+F-HG-K8-P1,Frauen,Hauptgebäude,Poster,No,,,,,,
+F-HG-K8-P2,Frauen,Hauptgebäude,Poster,No,,,,,,
+F-HG-K8-S1,Frauen,Hauptgebäude,Sticker,Yes,"Berliner Politik, Kapitalismuskritik",Kommentar,,,Webseite,Zeitlos
+F-HG-K8-S2,Frauen,Hauptgebäude,Sticker,No,,,,,,
+F-HG-K8-S3,Frauen,Hauptgebäude,Sticker,Yes,Nachhaltigkeit / Umwelt,Kommentar,Abgekratzt,,Webseite,Zeitlos
+F-HG-K8-S4,Frauen,Hauptgebäude,Sticker,No,,,,,,
+F-HG-K8-S5,Frauen,Hauptgebäude,Sticker,No,,,,,,
+F-HG-K8-S6,Frauen,Hauptgebäude,Sticker,Yes,LGBTQIA+,Kommentar,Abgekratzt,,Soziale Medien,Zeitlos
+F-HG-K8-S7,Frauen,Hauptgebäude,Sticker,Yes,Feminismus,Kommentar,,,"Email-Adresse, Soziale Medien",Zeitlos
+F-HG-K8-S8,Frauen,Hauptgebäude,Sticker,Yes,Berliner Politik,Kommentar,Abgekratzt,,Webseite,Zeitbezug (z.B. Ereignis)
+"F-HG-K8-S9 ",Frauen,Hauptgebäude,Sticker,Yes,Tierschutz,Kommentar,,,Webseite,Zeitlos
+F-HG-K8-S10,Frauen,Hauptgebäude,Sticker,No,,,,,,
+F-HG-K8-S11,Frauen,Hauptgebäude,Sticker,No,,,,,,
+F-HG-K8-T1,Frauen,Hauptgebäude,Text,Yes,Nachhaltigkeit / Umwelt,Kommentar,,,Keine,Zeitlos
+F-HG-K8-T2,Frauen,Hauptgebäude,Text,Yes,Kapitalismuskritik,Kommentar,Überschrieben,,Keine,Zeitlos
+F-HG-K8-T3,Frauen,Hauptgebäude,Text,Yes,Kapitalismuskritik,Antwort,,Überschreibend,Keine,Zeitlos
+F-HG-K8-T4,Frauen,Hauptgebäude,Text,Yes,Feminismus,Kommentar,Abgewischt,,Keine,Zeitlos
+F-HG-K8-T5,Frauen,Hauptgebäude,Text,No,,,,,,
+F-HG-K8-T6,Frauen,Hauptgebäude,Text,No,,,,,,
+F-HG-K8-T7,Frauen,Hauptgebäude,Text,Yes,"Kapitalismuskritik, LGBTQIA+",Kommentar,,Überschreibend,Keine,Zeitlos
+F-HG-K8-T8,Frauen,Hauptgebäude,Text,No,,,,,,
+F-HG-K8-T9,Frauen,Hauptgebäude,Text,Yes,Israel / Palästina,Kommentar,Abgewischt,,Keine,Zeitlos
+F-HG-K8-T10,Frauen,Hauptgebäude,Text,No,,,Überschrieben,,,
+F-HG-K8-T11,Frauen,Hauptgebäude,Text,No,,,,,,
+F-HG-K8-T12,Frauen,Hauptgebäude,Text,Yes,Israel / Palästina,Antwort,,,Keine,Zeitlos
+F-HG-K8-TZ1,Frauen,Hauptgebäude,Text + Zeichnung,No,,,,,,
+F-HG-K8-TZ2,Frauen,Hauptgebäude,Text + Zeichnung,No,,,,,,
+F-HG-K8-Z1,Frauen,Hauptgebäude,Zeichnung,No,,,,,,
+F-HG-K8-Z2,Frauen,Hauptgebäude,Zeichnung,Yes,Kommunismus / Marxismus,Kommentar,Überschrieben,,Keine,Zeitlos
+F-HG-K8-Z3,Frauen,Hauptgebäude,Zeichnung,No,,,,,,
+F-HG-K9-S1,Frauen,Hauptgebäude,Sticker,Yes,Nachhaltigkeit / Umwelt,Kommentar,"Abgekratzt, Überschrieben",,QR-Code,Zeitlos
+F-HG-K9-S2,Frauen,Hauptgebäude,Sticker,Yes,"Berliner Politik, Kapitalismuskritik",Kommentar,,,Webseite,Zeitangabe (z.B. Datum)
+F-HG-K9-S3,Frauen,Hauptgebäude,Sticker,No,,,,,,
+F-HG-K9-S4,Frauen,Hauptgebäude,Sticker,Yes,BIPoC,Kommentar,,,QR-Code,Zeitlos
+F-HG-K9-S5,Frauen,Hauptgebäude,Sticker,Yes,Tierschutz,Kommentar,Abgekratzt,,Nicht erkenntlich,Nicht erkenntlich
+F-HG-K9-S6,Frauen,Hauptgebäude,Sticker,Yes,Sonstige,Kommentar,Abgekratzt,,Nicht erkenntlich,Nicht erkenntlich
+F-HG-K9-S7,Frauen,Hauptgebäude,Sticker,Yes,"Nachhaltigkeit / Umwelt, Tierschutz",Kommentar,,,Webseite,Zeitlos
+F-HG-K9-S8,Frauen,Hauptgebäude,Sticker,Yes,Sonstige,Kommentar,,,"QR-Code, Soziale Medien",Zeitlos
+F-HG-K9-S9,Frauen,Hauptgebäude,Sticker,Yes,LGBTQIA+,Kommentar,,,Webseite,Zeitlos
+F-HG-K9-S10,Frauen,Hauptgebäude,Sticker,Yes,"LGBTQIA+, Partei",Kommentar,,,Keine,Zeitlos
+F-HG-K9-S11,Frauen,Hauptgebäude,Sticker,Yes,"Antifaschismus / gegen Rechtsextremismus, Polizei",Kommentar,Abgekratzt,,QR-Code,Zeitlos
+F-HG-K9-S12,Frauen,Hauptgebäude,Sticker,Yes,"LGBTQIA+, Partei",Kommentar,,,Keine,
+F-HG-K9-S13,Frauen,Hauptgebäude,Sticker,Yes,"BIPoC, TU Berlin",Kommentar,"Abgekratzt, Überklebt, Überschrieben",,Keine,Zeitangabe (z.B. Datum)
+F-HG-K9-S14,Frauen,Hauptgebäude,Sticker,Yes,"Anarchie, Ukraine / Russland",Kommentar,Abgekratzt,,Keine,Zeitlos
+F-HG-K9-S15,Frauen,Hauptgebäude,Sticker,Yes,Tierschutz,Kommentar,,,Webseite,Zeitlos
+F-HG-K9-S16,Frauen,Hauptgebäude,Sticker,No,,,,,,
+F-HG-K9-T1,Frauen,Hauptgebäude,Text,Yes,Nachhaltigkeit / Umwelt,Antwort,,Überschreibend,Keine,Zeitlos
+F-HG-K9-T2,Frauen,Hauptgebäude,Text,No,,,,,,
+F-HG-K9-T3,Frauen,Hauptgebäude,Text,No,,,,,,
+F-HG-K9-T4,Frauen,Hauptgebäude,Text,No,,,,,,
+F-HG-K9-T5,Frauen,Hauptgebäude,Text,No,,,,,,
+F-HG-K9-T6,Frauen,Hauptgebäude,Text,Yes,"Kritik an linkspolitischer Gesinnung, Sonstige",Kommentar,Abgewischt,,Keine,Zeitlos
+F-HG-K9-Z1,Frauen,Hauptgebäude,Zeichnung,No,,,,,,
+F-HG-K9-Z2,Frauen,Hauptgebäude,Zeichnung,No,,,,,,
+F-HG-K10-S1,Frauen,Hauptgebäude,Sticker,Yes,Migration,Kommentar,Abgekratzt,,Webseite,Zeitlos
+F-HG-K10-S2,Frauen,Hauptgebäude,Sticker,Yes,Nachhaltigkeit / Umwelt,Kommentar,Abgekratzt,,QR-Code,Zeitlos
+F-HG-K10-S3,Frauen,Hauptgebäude,Sticker,No,,,,,,
+F-HG-K10-S4,Frauen,Hauptgebäude,Sticker,Yes,"Berliner Politik, Kapitalismuskritik",Kommentar,,,Webseite,Zeitangabe (z.B. Datum)
+F-HG-K10-S5,Frauen,Hauptgebäude,Sticker,No,,,,,,
+F-HG-K10-S6,Frauen,Hauptgebäude,Sticker,No,,,,,,
+F-HG-K10-S7,Frauen,Hauptgebäude,Sticker,Yes,TU Berlin,Kommentar,Abgekratzt,,Keine,Zeitangabe (z.B. Datum)
+F-HG-K10-S8,Frauen,Hauptgebäude,Sticker,Yes,Nachhaltigkeit / Umwelt,Kommentar,Abgekratzt,,QR-Code,Nicht erkenntlich
+F-HG-K10-S9,Frauen,Hauptgebäude,Sticker,No,,,,,,
+F-HG-K10-S10,Frauen,Hauptgebäude,Sticker,Yes,Nachhaltigkeit / Umwelt,Kommentar,,Überklebend,"QR-Code, Webseite",Zeitlos
+F-HG-K10-S11,Frauen,Hauptgebäude,Sticker,Yes,Kommunismus / Marxismus,Kommentar,Überschrieben,,QR-Code,Zeitlos
+F-HG-K10-S12,Frauen,Hauptgebäude,Sticker,No,,,,,,
+F-HG-K10-S13,Frauen,Hauptgebäude,Sticker,No,,,,,,
+F-HG-K10-S14,Frauen,Hauptgebäude,Sticker,No,,,,,,
+F-HG-K10-S15,Frauen,Hauptgebäude,Sticker,Yes,"Partei, Sonstige",Kommentar,,,Keine,Zeitlos
+F-HG-K10-S16,Frauen,Hauptgebäude,Sticker,No,,,,,,
+F-HG-K10-S17,Frauen,Hauptgebäude,Sticker,No,,,,,,
+F-HG-K10-S18,Frauen,Hauptgebäude,Sticker,Yes,"Antifaschismus / gegen Rechtsextremismus, Polizei",Kommentar,Abgekratzt,,Keine,Zeitlos
+F-HG-K10-S19,Frauen,Hauptgebäude,Sticker,Yes,Antifaschismus / gegen Rechtsextremismus,Kommentar,,,Keine,Zeitlos
+F-HG-K10-T1,Frauen,Hauptgebäude,Text,Yes,Polizei,Kommentar,"Abgewischt, Überklebt",,Keine,Zeitlos
+F-HG-K10-T2,Frauen,Hauptgebäude,Text,Yes,Sonstige,Kommentar,Überschrieben,,Keine,Zeitlos
+F-HG-K10-TZ1,Frauen,Hauptgebäude,Text + Zeichnung,Yes,LGBTQIA+,Kommentar,Abgewischt,,Keine,Zeitlos
+F-HG-K10-T4,Frauen,Hauptgebäude,Text,No,,,,,,
+F-HG-K10-T5,Frauen,Hauptgebäude,Text,No,,,,,,
+F-HG-K10-T6,Frauen,Hauptgebäude,Text,No,,,,,,
+F-HG-K10-T7,Frauen,Hauptgebäude,Text,No,,,,,,
+F-HG-K10-T8,Frauen,Hauptgebäude,Text,No,,,,,,
+F-HG-K10-Z1,Frauen,Hauptgebäude,Zeichnung,Yes,"Anarchie, Kommunismus / Marxismus",Antwort,,Überschreibend,Keine,Zeitlos
+F-HG-K11-P1,Frauen,Hauptgebäude,Poster,Yes,Ukraine / Russland,Kommentar,Zerknickt,Überschreibend,Keine,Zeitangabe (z.B. Datum)
+F-HG-K11-P2,Frauen,Hauptgebäude,Poster,Yes,Israel / Palästina,Kommentar,"Abgekratzt, Überschrieben",,QR-Code,Nicht erkenntlich
+F-HG-K11-S1,Frauen,Hauptgebäude,Sticker,Yes,Berliner Politik,Kommentar,,,Webseite,Zeitangabe (z.B. Datum)
+F-HG-K11-S2,Frauen,Hauptgebäude,Sticker,Yes,Anarchie,Kommentar,Abgekratzt,,Nicht erkenntlich,Nicht erkenntlich
+F-HG-K11-S3,Frauen,Hauptgebäude,Sticker,Yes,"Berliner Politik, Partei",Kommentar,Überklebt,,Keine,Zeitlos
+F-HG-K11-S4,Frauen,Hauptgebäude,Sticker,Yes,Antifaschismus / gegen Rechtsextremismus,Kommentar,,,Keine,Zeitlos
+F-HG-K11-S5,Frauen,Hauptgebäude,Sticker,No,,,,,,
+F-HG-K11-S6,Frauen,Hauptgebäude,Sticker,Yes,"Feminismus, LGBTQIA+, TU Berlin",Kommentar,"Abgekratzt, Überschrieben",,Keine,Zeitangabe (z.B. Datum)
+F-HG-K11-S7,Frauen,Hauptgebäude,Sticker,No,,,,,,
+F-HG-K11-S8,Frauen,Hauptgebäude,Sticker,Yes,"Nachhaltigkeit / Umwelt, Tierschutz",Kommentar,Abgekratzt,Überklebend,Webseite,Zeitlos
+F-HG-K11-S95,Frauen,Hauptgebäude,Sticker,Yes,"Antifaschismus / gegen Rechtsextremismus, Migration",Kommentar,Abgekratzt,,Soziale Medien,Zeitangabe (z.B. Datum)
+F-HG-K11-S10,Frauen,Hauptgebäude,Sticker,No,,,,,,
+F-HG-K11-S11,Frauen,Hauptgebäude,Sticker,Yes,"BIPoC, TU Berlin",Kommentar,,,Keine,Zeitangabe (z.B. Datum)
+F-HG-K11-S12,Frauen,Hauptgebäude,Sticker,Yes,"BIPoC, Nachhaltigkeit / Umwelt",Kommentar,,,Nicht erkenntlich,Zeitbezug (z.B. Ereignis)
+F-HG-K11-S13,Frauen,Hauptgebäude,Sticker,Yes,Sonstige,Kommentar,,,"QR-Code, Soziale Medien",
+F-HG-K11-T1,Frauen,Hauptgebäude,Text,No,,,,,,
+F-HG-K11-T2,Frauen,Hauptgebäude,Text,Yes,Ukraine / Russland,Antwort,Abgewischt,,Keine,
+F-HG-K11-T3,Frauen,Hauptgebäude,Text,Yes,Ukraine / Russland,Antwort,,,Keine,
+F-HG-K11-T4,Frauen,Hauptgebäude,Text,No,,,,,,
+F-HG-K11-T5,Frauen,Hauptgebäude,Text,Yes,Ukraine / Russland,Kommentar,Überklebt,,Keine,
+F-HG-K11-T6,Frauen,Hauptgebäude,Text,Yes,Ukraine / Russland,Antwort,Überschrieben,,Keine,
+F-HG-K11-T7,Frauen,Hauptgebäude,Text,Yes,Ukraine / Russland,Antwort,Überschrieben,,Keine,
+F-HG-K11-T8,Frauen,Hauptgebäude,Text,Yes,Ukraine / Russland,Antwort,Überschrieben,Überschreibend,Keine,
+F-HG-K11-T9,Frauen,Hauptgebäude,Text,Yes,Ukraine / Russland,Antwort,,Überschreibend,Keine,
+F-HG-K11-T10,Frauen,Hauptgebäude,Text,No,,,,,,
+F-HG-K11-T11,Frauen,Hauptgebäude,Text,No,,,,,,
+F-HG-K11-T12,Frauen,Hauptgebäude,Text,No,,,,,,
+F-HG-K11-T13,Frauen,Hauptgebäude,Text,Yes,Nachhaltigkeit / Umwelt,Kommentar,,,Keine,Zeitbezug (z.B. Ereignis)
+F-HG-K11-T14,Frauen,Hauptgebäude,Text,No,,,,,,
+F-HG-K11-T15,Frauen,Hauptgebäude,Text,No,,,,,,
+F-HG-K11-T16,Frauen,Hauptgebäude,Text,No,,,,,,
+F-HG-K11-T17,Frauen,Hauptgebäude,Text,No,,,,,,
+F-HG-K11-Z1,Frauen,Hauptgebäude,Zeichnung,No,,,,,,
+F-HG-K12-P1,Frauen,Hauptgebäude,Poster,Yes,Israel / Palästina,Kommentar,"Abgekratzt, Überschrieben",,QR-Code,
+F-HG-K12-S1,Frauen,Hauptgebäude,Sticker,No,,,,,,
+F-HG-K12-S2,Frauen,Hauptgebäude,Sticker,Yes,"Kapitalismuskritik, LGBTQIA+, Partei",Kommentar,,,Keine,
+F-HG-K12-S3,Frauen,Hauptgebäude,Sticker,Yes,Berliner Politik,Kommentar,Abgekratzt,,Webseite,Zeitangabe (z.B. Datum)
+F-HG-K12-S4,Frauen,Hauptgebäude,Sticker,Yes,"Kapitalismuskritik, Partei",Kommentar,Abgekratzt,,Keine,
+F-HG-K12-S5,Frauen,Hauptgebäude,Sticker,No,,,,,,
+F-HG-K12-T1,Frauen,Hauptgebäude,Text,No,,,,,,
+F-HG-K12-T2,Frauen,Hauptgebäude,Text,No,,,,,,
+F-HG-K12-T3,Frauen,Hauptgebäude,Text,No,,,,,,
+F-HG-K12-T4,Frauen,Hauptgebäude,Text,Yes,Ukraine / Russland,Antwort,,Überschreibend,Keine,
+F-HG-K12-T5,Frauen,Hauptgebäude,Text,Yes,Ukraine / Russland,Antwort,,,Keine,
+F-HG-K12-T6,Frauen,Hauptgebäude,Text,Yes,Ukraine / Russland,Kommentar,"Abgewischt, Überschrieben",,Keine,
+F-HG-K12-T7,Frauen,Hauptgebäude,Text,Yes,Ukraine / Russland,Antwort,Abgewischt,,Keine,
+F-HG-K12-T8,Frauen,Hauptgebäude,Text,Yes,Ukraine / Russland,Antwort,,Überschreibend,Keine,
+F-ME-K1-T1,Frauen,Mensa,Text,No,,,,,,
+F-ME-K1-T2,Frauen,Mensa,Text,No,,,,,,
+F-ME-K1-TZ1,Frauen,Mensa,Text + Zeichnung,No,,,,,,
+F-ME-K1-TZ2,Frauen,Mensa,Text + Zeichnung,Yes,Tierschutz,Kommentar,Abgewischt,,Keine,
+F-ME-K1-Z1,Frauen,Mensa,Zeichnung,No,,,,,,
+F-ME-K2-T1,Frauen,Mensa,Text,Yes,Anarchie,Kommentar,,,Keine,
+F-ME-K4-S1,Frauen,Mensa,Sticker,No,,,,,,
+F-ME-K4-T1,Frauen,Mensa,Text,No,,,,,,
+F-ME-K4-T2,Frauen,Mensa,Text,No,,,,,,
+F-ME-K4-T3,Frauen,Mensa,Text,No,,,,,,
+F-ME-K4-T4,Frauen,Mensa,Text,No,,,,,,
+F-ME-K4-TZ1,Frauen,Mensa,Text + Zeichnung,No,,,,,,
+F-ME-K5-TZ1,Frauen,Mensa,Text + Zeichnung,Yes,"Anarchie, Feminismus",Kommentar,Abgewischt,,Keine,
+F-ME-K7-S1,Frauen,Mensa,Sticker,No,,,,,,
+F-ME-K7-T1,Frauen,Mensa,Text,No,,,,,,
+F-ME-K8-S1,Frauen,Mensa,Sticker,No,,,,,,
+F-ME-K8-T1,Frauen,Mensa,Text,No,,,,,,
+F-ME-K9-S1,Frauen,Mensa,Sticker,Yes,"Nachhaltigkeit / Umwelt, Partei",Kommentar,"Abgekratzt, Überklebt, Überschrieben",,Webseite,
+F-ME-K9-S2,Frauen,Mensa,Sticker,Yes,Kommunismus / Marxismus,Antwort,"Abgekratzt, Überschrieben",Überklebend,Webseite,
+F-ME-K9-TZ1,Frauen,Mensa,Text + Zeichnung,Yes,"Nachhaltigkeit / Umwelt, Partei",Antwort,,Überschreibend,Keine,
+F-ME-K10-T1,Frauen,Mensa,Text,No,,,,,,
+F-ME-K10-T2,Frauen,Mensa,Text,No,,,,,,
+F-ME-K10-T3,Frauen,Mensa,Text,No,,,,,,
+F-ME-K10-TZ1,Frauen,Mensa,Text + Zeichnung,Yes,"Anarchie, LGBTQIA+",Kommentar,Abgewischt,,Keine,Zeitlos
+F-ME-K10-TZ2,Frauen,Mensa,Text + Zeichnung,Yes,Anarchie,Kommentar,Abgewischt,,Keine,
+M-HG-K1-S1,Männer,Hauptgebäude,Sticker,No,,,,,,
+M-HG-K1-S2,Männer,Hauptgebäude,Sticker,No,,,,,,
+M-HG-K1-S3,Männer,Hauptgebäude,Sticker,Yes,Nachhaltigkeit / Umwelt,Kommentar,Abgekratzt,Überklebend,Nicht erkenntlich,
+M-HG-K1-S4,Männer,Hauptgebäude,Sticker,No,,,,,,
+M-HG-K1-S5,Männer,Hauptgebäude,Sticker,Yes,TU Berlin,Kommentar,Abgekratzt,,Soziale Medien,
+M-HG-K1-S6,Männer,Hauptgebäude,Sticker,No,,,,,,
+M-HG-K1-S7,Männer,Hauptgebäude,Sticker,Yes,Nachhaltigkeit / Umwelt,Kommentar,"Abgekratzt, Überschrieben",Überklebend,Keine,
+M-HG-K1-T1,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K1-T2,Männer,Hauptgebäude,Text,Yes,Polizei,Kommentar,,,Keine,
+M-HG-K1-T3,Männer,Hauptgebäude,Text,Yes,Feminismus,Antwort,Überklebt,Überschreibend,Keine,
+M-HG-K1-T4,Männer,Hauptgebäude,Text,Yes,Feminismus,Antwort,Überschrieben,Überschreibend,Keine,
+M-HG-K1-T5,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K1-T6,Männer,Hauptgebäude,Text,Yes,Feminismus,Antwort,,,Keine,
+M-HG-K1-T7,Männer,Hauptgebäude,Text,Yes,Feminismus,Antwort,,Überschreibend,Keine,
+M-HG-K1-T8,Männer,Hauptgebäude,Text,Yes,Feminismus,Kommentar,Überschrieben,,Keine,
+M-HG-K1-T9,Männer,Hauptgebäude,Text,Yes,Feminismus,Antwort,,,Keine,
+M-HG-K1-T10,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K1-T11,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K1-T12,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K1-T13,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K1-T14,Männer,Hauptgebäude,Text,Yes,"Antifaschismus / gegen Rechtsextremismus, Partei",Kommentar,,,Keine,Zeitlos
+M-HG-K1-T15,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K1-T16,Männer,Hauptgebäude,Text,Yes,Feminismus,Kommentar,Überschrieben,,Keine,
+M-HG-K1-T17,Männer,Hauptgebäude,Text,Yes,Feminismus,Antwort,,Überschreibend,Keine,
+M-HG-K1-TZ1,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K1-TZ2,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K1-TZ3,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K1-TZ4,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K1-TZ5,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K1-TZ6,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K1-TZ7,Männer,Hauptgebäude,Text + Zeichnung,Yes,Feminismus,Antwort,,,Keine,
+M-HG-K1-Z1,Männer,Hauptgebäude,Zeichnung,No,,,,,,
+M-HG-K1-Z2,Männer,Hauptgebäude,Zeichnung,No,,,,,,
+M-HG-K1-Z3,Männer,Hauptgebäude,Zeichnung,Yes,Feminismus,Antwort,,Überschreibend,Keine,
+M-HG-K2-S1,Männer,Hauptgebäude,Sticker,Yes,Antifaschismus / gegen Rechtsextremismus,Antwort,Überklebt,Überklebend,Keine,Zeitlos
+M-HG-K2-S2,Männer,Hauptgebäude,Sticker,No,,,,,,
+M-HG-K2-S3,Männer,Hauptgebäude,Sticker,Yes,Antifaschismus / gegen Rechtsextremismus,Antwort,Überklebt,Überklebend,Keine,Zeitlos
+M-HG-K2-S4,Männer,Hauptgebäude,Sticker,No,,,,,,
+M-HG-K2-S5,Männer,Hauptgebäude,Sticker,Yes,Sonstige,Kommentar,,,Keine,
+M-HG-K2-S6,Männer,Hauptgebäude,Sticker,Yes,Sonstige,Kommentar,Abgekratzt,,Nicht erkenntlich,
+M-HG-K2-S7,Männer,Hauptgebäude,Sticker,No,,,,,,
+M-HG-K2-S8,Männer,Hauptgebäude,Sticker,No,,,,,,
+M-HG-K2-S9,Männer,Hauptgebäude,Sticker,Yes,Nachhaltigkeit / Umwelt,Kommentar,Abgekratzt,,Keine,
+M-HG-K2-S10,Männer,Hauptgebäude,Sticker,No,,,,,,
+M-HG-K2-S11,Männer,Hauptgebäude,Sticker,No,,,,,,
+M-HG-K2-S12,Männer,Hauptgebäude,Sticker,No,,,,,,
+M-HG-K2-S13,Männer,Hauptgebäude,Sticker,No,,,,,,
+M-HG-K2-S14,Männer,Hauptgebäude,Sticker,No,,,,,,
+M-HG-K2-S15,Männer,Hauptgebäude,Sticker,No,,,,,,
+M-HG-K2-S16,Männer,Hauptgebäude,Sticker,No,,,,,,
+M-HG-K2-T1,Männer,Hauptgebäude,Text,Yes,Ukraine / Russland,Antwort,,,Keine,
+M-HG-K2-T2,Männer,Hauptgebäude,Text,Yes,Ukraine / Russland,Antwort,,,Keine,
+M-HG-K2-T3,Männer,Hauptgebäude,Text,Yes,Ukraine / Russland,Antwort,,,Keine,
+M-HG-K2-T4,Männer,Hauptgebäude,Text,Yes,Ukraine / Russland,Kommentar,,,Keine,
+M-HG-K2-T5,Männer,Hauptgebäude,Text,Yes,Ukraine / Russland,Antwort,,,Keine,
+M-HG-K2-T6,Männer,Hauptgebäude,Text,Yes,Ukraine / Russland,Antwort,,,Keine,
+M-HG-K2-T7,Männer,Hauptgebäude,Text,Yes,Ukraine / Russland,Antwort,,,Keine,
+M-HG-K2-T8,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K2-T9,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K2-T10,Männer,Hauptgebäude,Text,Yes,Anarchie,Kommentar,,,Keine,
+M-HG-K2-T11,Männer,Hauptgebäude,Text,Yes,Anarchie,Antwort,,,Keine,
+M-HG-K2-T12,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K2-T13,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K2-T14,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K2-T15,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K2-T16,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K2-T17,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K2-T18,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K2-T19,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K2-T20,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K2-T21,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K2-T22,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K2-T23,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K2-T24,Männer,Hauptgebäude,Text,Yes,"Kapitalismuskritik, Polizei",Kommentar,,,Keine,
+M-HG-K2-T25,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K2-T26,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K2-TZ1,Männer,Hauptgebäude,Text + Zeichnung,Yes,Antifaschismus / gegen Rechtsextremismus,Kommentar,,,Keine,Zeitlos
+M-HG-K2-TZ2,Männer,Hauptgebäude,Text + Zeichnung,Yes,Ukraine / Russland,Antwort,,,Keine,
+M-HG-K2-TZ3,Männer,Hauptgebäude,Text + Zeichnung,Yes,Ukraine / Russland,Antwort,,,Keine,
+M-HG-K2-TZ4,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K2-TZ5,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K2-TZ6,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K2-TZ7,Männer,Hauptgebäude,Text + Zeichnung,Yes,Antifaschismus / gegen Rechtsextremismus,Kommentar,Abgewischt,Überschreibend,Keine,Zeitlos
+M-HG-K2-TZ8,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K2-TZ9,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K2-TZ10,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K2-TZ11,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K2-Z1,Männer,Hauptgebäude,Zeichnung,Yes,Kommunismus / Marxismus,Kommentar,Überklebt,,Keine,Zeitlos
+M-HG-K2-Z2,Männer,Hauptgebäude,Zeichnung,Yes,Anarchie,Kommentar,Überklebt,,Keine,Zeitlos
+M-HG-K2-Z3,Männer,Hauptgebäude,Zeichnung,Yes,Antifaschismus / gegen Rechtsextremismus,Antwort,,Überschreibend,Keine,
+M-HG-K2-Z4,Männer,Hauptgebäude,Zeichnung,Yes,Anarchie,Kommentar,Abgewischt,,Keine,Zeitlos
+M-HG-K2-Z6,Männer,Hauptgebäude,Zeichnung,No,,,,,,
+M-HG-K2-Z7,Männer,Hauptgebäude,Zeichnung,No,,,,,,
+M-HG-K3-P1,Männer,Hauptgebäude,Poster,No,,,,,,
+M-HG-K3-T2,Männer,Hauptgebäude,Text,Yes,Antifaschismus / gegen Rechtsextremismus,Antwort,,,Keine,Zeitlos
+M-HG-K3-S1,Männer,Hauptgebäude,Sticker,No,,,,,,
+M-HG-K3-S2,Männer,Hauptgebäude,Sticker,Yes,Nachhaltigkeit / Umwelt,Kommentar,"Abgekratzt, Überschrieben",,Keine,
+M-HG-K3-S3,Männer,Hauptgebäude,Sticker,Yes,Nachhaltigkeit / Umwelt,Antwort,Abgekratzt,Überklebend,Keine,
+M-HG-K3-S4,Männer,Hauptgebäude,Sticker,Yes,Antifaschismus / gegen Rechtsextremismus,Kommentar,Überklebt,,Keine,Zeitlos
+M-HG-K3-S5,Männer,Hauptgebäude,Sticker,Yes,"Kommunismus / Marxismus, Sonstige",Antwort,,Überklebend,Keine,
+M-HG-K3-T1,Männer,Hauptgebäude,Text,Yes,Israel / Palästina,Kommentar,,,Keine,
+M-HG-K3-T3,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K3-T4,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K3-T5,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K3-T6,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K3-T7,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K3-T8,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K3-T9,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K3-T10,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K3-T11,Männer,Hauptgebäude,Text + Zeichnung,Yes,Türkei / Erdogan,Kommentar,Überschrieben,,Keine,
+M-HG-K3-T12,Männer,Hauptgebäude,Text,Yes,Türkei / Erdogan,Antwort,,,Keine,
+M-HG-K3-T13,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K3-T14,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K3-T15,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K3-T16,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K3-T17,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K3-T18,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K3-T19,Männer,Hauptgebäude,Text,Yes,Sonstige,Kommentar,,,Keine,
+M-HG-K3-T21,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K3-T22,Männer,Hauptgebäude,Text,Yes,Sonstige,Kommentar,,Überschreibend,Keine,
+M-HG-K3-T23,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K3-T24,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K3-T25,Männer,Hauptgebäude,Text,Yes,Migration,Kommentar,Überschrieben,,Keine,
+M-HG-K3-T26,Männer,Hauptgebäude,Text,Yes,Antifaschismus / gegen Rechtsextremismus,Antwort,,Überschreibend,Keine,
+M-HG-K3-T27,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K3-T28,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K3-T29,Männer,Hauptgebäude,Text,Yes,Ukraine / Russland,Kommentar,Abgewischt,,Keine,
+M-HG-K3-T30,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K3-T31,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K3-T32,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K3-T33,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K3-T34,Männer,Hauptgebäude,Text,Yes,Ukraine / Russland,Kommentar,Überschrieben,,Keine,
+M-HG-K3-T35,Männer,Hauptgebäude,Text,Yes,Ukraine / Russland,Antwort,,Überschreibend,Keine,
+M-HG-K3-T36,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K3-T37,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K3-T38,Männer,Hauptgebäude,Text,Yes,Kommunismus / Marxismus,Antwort,,Überschreibend,Keine,Zeitlos
+M-HG-K3-T39,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K3-T40,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K3-T41,Männer,Hauptgebäude,Text,Yes,Kommunismus / Marxismus,Kommentar,,,Keine,Zeitlos
+M-HG-K3-T42,Männer,Hauptgebäude,Text,Yes,Kommunismus / Marxismus,Antwort,,,Keine,Zeitlos
+M-HG-K3-T43,Männer,Hauptgebäude,Text,Yes,Kommunismus / Marxismus,Antwort,Überschrieben,,Keine,Zeitlos
+M-HG-K3-T44,Männer,Hauptgebäude,Text,Yes,"Kommunismus / Marxismus, Sonstige",Antwort,,Überschreibend,Keine,Zeitlos
+M-HG-K3-T45,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K3-TZ1,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K3-TZ2,Männer,Hauptgebäude,Text + Zeichnung,Yes,Ukraine / Russland,Antwort,,,Keine,Zeitlos
+M-HG-K3-TZ3,Männer,Hauptgebäude,Text + Zeichnung,Yes,Ukraine / Russland,Antwort,,,Keine,Zeitlos
+M-HG-K3-TZ4,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K3-TZ5,Männer,Hauptgebäude,Text + Zeichnung,Yes,Kommunismus / Marxismus,Kommentar,Überklebt,Überschreibend,Keine,Zeitlos
+M-HG-K3-TZ6,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K3-TZ7,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K3-TZ8,Männer,Hauptgebäude,Text + Zeichnung,Yes,Kommunismus / Marxismus,Kommentar,"Abgewischt, Überschrieben",,Keine,
+M-HG-K3-Z1,Männer,Hauptgebäude,Zeichnung,No,,,,,,
+M-HG-K3-Z2,Männer,Hauptgebäude,Zeichnung,Yes,Nachhaltigkeit / Umwelt,Antwort,,Überschreibend,Keine,Zeitlos
+M-HG-K3-Z3,Männer,Hauptgebäude,Zeichnung,Yes,Türkei / Erdogan,Antwort,,Überschreibend,Keine,Zeitlos
+M-HG-K3-Z4,Männer,Hauptgebäude,Zeichnung,No,,,,,,
+M-HG-K3-Z6,Männer,Hauptgebäude,Zeichnung,No,,,,,,
+M-HG-K3-Z7,Männer,Hauptgebäude,Zeichnung,No,,,,,,
+M-HG-K3-Z8,Männer,Hauptgebäude,Zeichnung,No,,,,,,
+M-HG-K3-Z9,Männer,Hauptgebäude,Zeichnung,No,,,,,,
+M-HG-K4-P1,Männer,Hauptgebäude,Poster,No,,,,,,
+M-HG-K4-S1,Männer,Hauptgebäude,Sticker,No,,,,,,
+M-HG-K4-S2,Männer,Hauptgebäude,Sticker,Yes,Nachhaltigkeit / Umwelt,Kommentar,,,QR-Code,Zeitlos
+M-HG-K4-S3,Männer,Hauptgebäude,Sticker,Yes,TU Berlin,Kommentar,,,Keine,Zeitangabe (z.B. Datum)
+M-HG-K4-S4,Männer,Hauptgebäude,Sticker,Yes,"Nachhaltigkeit / Umwelt, TU Berlin",Kommentar,,,QR-Code,Zeitlos
+M-HG-K4-S5,Männer,Hauptgebäude,Sticker,No,,,,,,
+M-HG-K4-S6,Männer,Hauptgebäude,Sticker,No,,,,,,
+M-HG-K4-S7,Männer,Hauptgebäude,Sticker,No,,,,,,
+M-HG-K4-T1,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K4-T2,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K4-T3,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K4-T4,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K4-T5,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K4-T6,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K4-T7,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K4-T8,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K4-T9,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K4-T10,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K4-T11,Männer,Hauptgebäude,Text,Yes,Antifaschismus / gegen Rechtsextremismus,Kommentar,,,Keine,Zeitlos
+M-HG-K4-T12,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K4-T13,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K4-T14,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K4-T15,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K4-T16,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K4-T17,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K4-T18,Männer,Hauptgebäude,Text,Yes,Sonstige,Kommentar,,Überschreibend,Keine,Zeitlos
+M-HG-K4-TZ1,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K4-TZ2,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K4-TZ3,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K4-TZ4,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K4-TZ5,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K4-TZ6,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K4-TZ7,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K4-TZ8,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K4-Z1,Männer,Hauptgebäude,Zeichnung,No,,,,,,
+M-HG-K4-Z2,Männer,Hauptgebäude,Zeichnung,No,,,,,,
+M-HG-K4-Z3,Männer,Hauptgebäude,Zeichnung,No,,,,,,
+M-HG-K5-S1,Männer,Hauptgebäude,Sticker,No,,,,,,
+M-HG-K5-S2,Männer,Hauptgebäude,Sticker,No,,,,,,
+M-HG-K5-S3,Männer,Hauptgebäude,Sticker,Yes,"Antifaschismus / gegen Rechtsextremismus, BIPoC, Feminismus, Migration",Kommentar,"Abgekratzt, Überschrieben",,Nicht erkenntlich,
+M-HG-K5-S4,Männer,Hauptgebäude,Sticker,No,,,,,,
+M-HG-K5-S5,Männer,Hauptgebäude,Sticker,No,,,,,,
+M-HG-K5-S6,Männer,Hauptgebäude,Sticker,Yes,Antifaschismus / gegen Rechtsextremismus,Kommentar,,,Keine,Zeitlos
+M-HG-K5-S7,Männer,Hauptgebäude,Sticker,No,,,,,,
+M-HG-K5-S8,Männer,Hauptgebäude,Sticker,No,,,,,,
+M-HG-K5-S9,Männer,Hauptgebäude,Sticker,No,,,,,,
+M-HG-K5-S10,Männer,Hauptgebäude,Sticker,No,,,,,,
+M-HG-K5-S11,Männer,Hauptgebäude,Sticker,No,,,,,,
+M-HG-K5-S12,Männer,Hauptgebäude,Sticker,No,,,,,,
+M-HG-K5-T1,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K5-T2,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K5-T3,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K5-T4,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K5-T5,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K5-T6,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K5-T7,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K5-T8,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K5-T9,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K5-T10,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K5-T11,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K5-T12,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K5-T13,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K5-T14,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K5-T15,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K5-T16,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K5-T17,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K5-T18,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K5-T19,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K5-T20,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K5-T21,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K5-T22,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K5-T23,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K5-T24,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K5-T25,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K5-T26,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K5-T27,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K5-T28,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K5-T29,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K5-T30,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K5-T31,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K5-T32,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K5-T33,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K5-T34,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K5-T35,Männer,Hauptgebäude,Text,No,,,,,,
+M-HG-K5-TZ1,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K5-TZ2,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K5-TZ3,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K5-TZ4,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K5-TZ5,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K5-TZ6,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K5-TZ7,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K5-TZ8,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K5-TZ9,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K5-TZ10,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K5-TZ11,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K5-TZ12,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K5-TZ13,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K5-TZ14,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K5-TZ15,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K5-TZ16,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K5-TZ17,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K5-TZ18,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K5-TZ19,Männer,Hauptgebäude,Text + Zeichnung,No,,,,,,
+M-HG-K5-Z1,Männer,Hauptgebäude,Zeichnung,No,,,,,,
+M-HG-K5-Z2,Männer,Hauptgebäude,Zeichnung,No,,,,,,
+M-HG-K5-Z3,Männer,Hauptgebäude,Zeichnung,No,,,,,,
+M-HG-K5-Z4,Männer,Hauptgebäude,Zeichnung,No,,,,,,
+M-HG-K5-Z5,Männer,Hauptgebäude,Zeichnung,No,,,,,,
+M-HG-K5-Z6,Männer,Hauptgebäude,Zeichnung,No,,,,,,
+M-ME-K1-S1,Männer,Mensa,Sticker,No,,,,,,
+M-ME-K1-S2,Männer,Mensa,Sticker,No,,,,,,
+M-ME-K1-S3,Männer,Mensa,Sticker,No,,,,,,
+M-ME-K1-T1,Männer,Mensa,Text,No,,,,,,
+M-ME-K1-T2,Männer,Mensa,Text,No,,,,,,
+M-ME-K1-T3,Männer,Mensa,Text,No,,,,,,
+M-ME-K1-T4,Männer,Mensa,Text,Yes,Israel / Palästina,Kommentar,,,Keine,Zeitlos
+M-ME-K1-T5,Männer,Mensa,Text,No,,,,,,
+M-ME-K1-T6,Männer,Mensa,Text,No,,,,,,
+M-ME-K1-T7,Männer,Mensa,Text,No,,,,,,
+M-ME-K1-T8,Männer,Mensa,Text,No,,,,,,
+M-ME-K1-T9,Männer,Mensa,Text,No,,,,,,
+M-ME-K1-T10,Männer,Mensa,Text,No,,,,,,
+M-ME-K1-T11,Männer,Mensa,Text,No,,,,,,
+M-ME-K1-TZ1,Männer,Mensa,Text + Zeichnung,No,,,,,,
+M-ME-K1-TZ2,Männer,Mensa,Text + Zeichnung,No,Sonstige,,,,Keine,Zeitlos
+M-ME-K1-TZ3,Männer,Mensa,Text + Zeichnung,No,,,,,,
+M-ME-K1-TZ4,Männer,Mensa,Text + Zeichnung,No,,,,,,
+M-ME-K1-TZ5,Männer,Mensa,Text + Zeichnung,No,,,,,,
+M-ME-K1-TZ6,Männer,Mensa,Text + Zeichnung,No,,,,,,
+M-ME-K1-TZ7,Männer,Mensa,Text + Zeichnung,No,,,,,,
+M-ME-K1-TZ8,Männer,Mensa,Text + Zeichnung,No,,,,,,
+M-ME-K1-TZ9,Männer,Mensa,Text + Zeichnung,No,,,,,,
+M-ME-K1-TZ10,Männer,Mensa,Text + Zeichnung,No,,,,,,
+M-ME-K1-TZ11,Männer,Mensa,Text + Zeichnung,No,,,,,,
+M-ME-K2-S1,Männer,Mensa,Sticker,No,,,,,,
+M-ME-K2-S2,Männer,Mensa,Sticker,Yes,Kommunismus / Marxismus,Kommentar,Überschrieben,Überklebend,QR-Code,Zeitlos
+M-ME-K2-S3,Männer,Mensa,Sticker,No,,,,,,
+M-ME-K2-S4,Männer,Mensa,Sticker,No,,,,,,
+M-ME-K2-S5,Männer,Mensa,Sticker,No,,,,,,
+M-ME-K2-S6,Männer,Mensa,Sticker,Yes,Nachhaltigkeit / Umwelt,Kommentar,"Abgekratzt, Überschrieben",,Webseite,Zeitlos
+M-ME-K2-S7,Männer,Mensa,Sticker,No,,,,,,
+M-ME-K2-S8,Männer,Mensa,Sticker,Yes,Nachhaltigkeit / Umwelt,Kommentar,Abgekratzt,,Nicht erkenntlich,
+M-ME-K2-S9,Männer,Mensa,Sticker,No,,,,,,
+M-ME-K2-T1,Männer,Mensa,Text,No,,,,,,
+M-ME-K2-T2,Männer,Mensa,Text,No,,,,,,
+M-ME-K2-T3,Männer,Mensa,Text,Yes,Kommunismus / Marxismus,Antwort,,Überschreibend,Keine,Zeitlos
+M-ME-K2-T4,Männer,Mensa,Text,No,,,,,,
+M-ME-K2-T5,Männer,Mensa,Text,No,,,,,,
+M-ME-K2-T6,Männer,Mensa,Text,No,,,,,,
+M-ME-K2-TZ1,Männer,Mensa,Text + Zeichnung,No,,,,,,
+M-ME-K2-TZ2,Männer,Mensa,Text + Zeichnung,No,,,,,,
+M-ME-K2-Z1,Männer,Mensa,Zeichnung,No,,,,,,
+M-ME-K2-Z2,Männer,Mensa,Zeichnung,No,,,,,,
+M-ME-K3-S1,Männer,Mensa,Sticker,Yes,Sonstige,Kommentar,,,Keine,Zeitlos
+M-ME-K3-S2,Männer,Mensa,Sticker,No,,,,,,
+M-ME-K3-S3,Männer,Mensa,Sticker,No,,,,,,
+M-ME-K3-S4,Männer,Mensa,Sticker,No,,,,,,
+M-ME-K3-S5,Männer,Mensa,Sticker,Yes,Feminismus,Kommentar,Abgekratzt,,"QR-Code, Telefonnummer",Zeitlos
+M-ME-K3-T1,Männer,Mensa,Text,Yes,Antifaschismus / gegen Rechtsextremismus,Antwort,Überklebt,,Keine,Zeitlos
+M-ME-K3-T2,Männer,Mensa,Text,No,,,,,,
+M-ME-K3-T3,Männer,Mensa,Text,No,,,,,,
+M-ME-K3-T4,Männer,Mensa,Text,No,,,,,,
+M-ME-K3-T5,Männer,Mensa,Text,Yes,"Feminismus, Kapitalismuskritik",Antwort,,,Keine,Zeitlos
+M-ME-K3-TZ1,Männer,Mensa,Text + Zeichnung,No,,,,,,
+M-ME-K3-TZ2,Männer,Mensa,Text + Zeichnung,No,,,,,,
+M-ME-K3-Z1,Männer,Mensa,Zeichnung,No,,,,,,
+M-ME-K4-P1,Männer,Mensa,Poster,No,,,,,,
+M-ME-K4-P2,Männer,Mensa,Poster,Yes,Polizei,Kommentar,Abgekratzt,Überklebend,Webseite,Zeitlos
+M-ME-K4-S1,Männer,Mensa,Sticker,No,,,,,,
+M-ME-K4-S2,Männer,Mensa,Sticker,No,,,,,,
+M-ME-K4-S3,Männer,Mensa,Sticker,Yes,Nachhaltigkeit / Umwelt,Kommentar,Abgekratzt,,Webseite,Zeitangabe (z.B. Datum)
+M-ME-K4-S4,Männer,Mensa,Sticker,Yes,Antifaschismus / gegen Rechtsextremismus,Kommentar,"Abgekratzt, Überschrieben",,Keine,Zeitlos
+M-ME-K4-S5,Männer,Mensa,Sticker,No,,,,,,
+M-ME-K4-T1,Männer,Mensa,Text,Yes,Sonstige,Kommentar,,,Keine,Zeitlos
+M-ME-K4-T2,Männer,Mensa,Text,No,,,,,,
+M-ME-K4-T3,Männer,Mensa,Text,No,,,,,,
+M-ME-K4-T4,Männer,Mensa,Text,Yes,Antifaschismus / gegen Rechtsextremismus,Kommentar,Überschrieben,,Keine,Zeitlos
+M-ME-K4-T5,Männer,Mensa,Text,Yes,"Antifaschismus / gegen Rechtsextremismus, Kritik an linkspolitischer Gesinnung",Antwort,,Überschreibend,Keine,Zeitlos
+M-ME-K4-TZ1,Männer,Mensa,Text + Zeichnung,No,,,,,,
+M-ME-K4-TZ2,Männer,Mensa,Text + Zeichnung,No,,,,,,
+M-ME-K4-TZ3,Männer,Mensa,Text + Zeichnung,No,,,,,,
+M-ME-K4-TZ4,Männer,Mensa,Text + Zeichnung,No,,,,,,
+M-ME-K4-TZ5,Männer,Mensa,Text + Zeichnung,Yes,"Antifaschismus / gegen Rechtsextremismus, Sonstige",Antwort,,,Keine,Zeitlos
+M-ME-K4-Z1,Männer,Mensa,Zeichnung,No,,,,,,
+M-ME-K4-Z2,Männer,Mensa,Zeichnung,No,,,,,,
+M-ME-K4-Z3,Männer,Mensa,Zeichnung,No,,,,,,
+M-ME-K5-P1,Männer,Mensa,Poster,No,Nachhaltigkeit / Umwelt,,,Überklebend,QR-Code,Zeitlos
+M-ME-K5-S1,Männer,Mensa,Sticker,Yes,Nachhaltigkeit / Umwelt,Kommentar,,,Keine,Zeitlos
+M-ME-K5-S2,Männer,Mensa,Sticker,No,,,,,,
+M-ME-K5-S3,Männer,Mensa,Sticker,No,,,,,,
+M-ME-K5-S4,Männer,Mensa,Sticker,Yes,Nachhaltigkeit / Umwelt,Kommentar,Überklebt,,"QR-Code, Webseite",Zeitlos
+M-ME-K5-S5,Männer,Mensa,Sticker,No,,,,,,
+M-ME-K5-S6,Männer,Mensa,Sticker,Yes,Nachhaltigkeit / Umwelt,Kommentar,Abgekratzt,,Keine,Zeitlos
+M-ME-K5-S7,Männer,Mensa,Sticker,Yes,TU Berlin,Kommentar,Abgekratzt,,Soziale Medien,Zeitlos
+M-ME-K5-S8,Männer,Mensa,Sticker,No,,,,,,
+M-ME-K5-S9,Männer,Mensa,Sticker,No,,,,,,
+M-ME-K5-S10,Männer,Mensa,Sticker,No,,,,,,
+M-ME-K5-S11,Männer,Mensa,Sticker,No,,,,,,
+M-ME-K5-S12,Männer,Mensa,Sticker,Yes,Anarchie,Kommentar,Abgekratzt,Überklebend,Keine,Zeitlos
+M-ME-K5-S13,Männer,Mensa,Sticker,Yes,Kommunismus / Marxismus,Kommentar,Abgekratzt,,Keine,Zeitlos
+M-ME-K5-T1,Männer,Mensa,Text,No,,,,,,
+M-ME-K5-T2,Männer,Mensa,Text,No,,,,,,
+M-ME-K5-T3,Männer,Mensa,Text,No,,,,,,
+M-ME-K5-T4,Männer,Mensa,Text,No,,,,,,
+M-ME-K5-T5,Männer,Mensa,Text,No,,,,,,
+M-ME-K5-T6,Männer,Mensa,Text,No,,,,,,
+M-ME-K5-T7,Männer,Mensa,Text,Yes,Sonstige,Kommentar,Überschrieben,,Keine,Zeitlos
+M-ME-K5-T8,Männer,Mensa,Text,No,,,,,,
+M-ME-K5-T9,Männer,Mensa,Text,No,,,,,,
+M-ME-K5-T10,Männer,Mensa,Text,No,,,,,,
+M-ME-K5-T11,Männer,Mensa,Text,No,,,,,,
+M-ME-K5-T12,Männer,Mensa,Text,No,,,,,,
+M-ME-K5-T13,Männer,Mensa,Text,Yes,Kapitalismuskritik,Kommentar,,Überschreibend,Keine,Zeitlos
+M-ME-K5-T14,Männer,Mensa,Text,No,,,,,,
+M-ME-K5-T15,Männer,Mensa,Text,No,,,,,,
+M-ME-K5-TZ1,Männer,Mensa,Text + Zeichnung,No,,,,,,
+M-ME-K5-TZ2,Männer,Mensa,Text + Zeichnung,Yes,Antifaschismus / gegen Rechtsextremismus,Antwort,,Überschreibend,Keine,Zeitlos
+M-ME-K5-TZ3,Männer,Mensa,Text + Zeichnung,No,,,,,,
+M-ME-K5-TZ4,Männer,Mensa,Text + Zeichnung,No,,,,,,
+M-ME-K5-TZ5,Männer,Mensa,Text + Zeichnung,No,,,,,,
+M-ME-K5-TZ6,Männer,Mensa,Text + Zeichnung,No,,,,,,
+M-ME-K5-Z1,Männer,Mensa,Zeichnung,No,,,,,,
+M-ME-K5-Z2,Männer,Mensa,Zeichnung,No,,,,,,
+M-ME-K6-S1,Männer,Mensa,Sticker,No,,,,,,
+M-ME-K6-S2,Männer,Mensa,Sticker,Yes,Antifaschismus / gegen Rechtsextremismus,Kommentar,Abgekratzt,,Keine,Zeitangabe (z.B. Datum)
+M-ME-K6-T1,Männer,Mensa,Text,Yes,Ukraine / Russland,Kommentar,,,Keine,Zeitlos
+M-ME-K6-T2,Männer,Mensa,Text,No,,,,,,
+M-ME-K6-T3,Männer,Mensa,Text,No,,,,,,
+M-ME-K6-T4,Männer,Mensa,Text,No,,,,,,
+M-ME-K6-T5,Männer,Mensa,Text,No,,,,,,
+M-ME-K6-T6,Männer,Mensa,Text,No,,,,,,
+M-ME-K6-T7,Männer,Mensa,Text,Yes,Polizei,Kommentar,,,Keine,Zeitlos
+M-ME-K6-T8,Männer,Mensa,Text,No,,,,,,
+M-ME-K6-T9,Männer,Mensa,Text,Yes,"Antifaschismus / gegen Rechtsextremismus, Polizei",Antwort,,,Keine,Zeitlos
+M-ME-K6-T10,Männer,Mensa,Text,Yes,Polizei,Antwort,,,Keine,Zeitlos
+M-ME-K6-TZ1,Männer,Mensa,Text + Zeichnung,No,,,,,,
+M-ME-K6-TZ2,Männer,Mensa,Text + Zeichnung,No,,,,,,
+M-ME-K6-TZ3,Männer,Mensa,Text + Zeichnung,No,,,,,,
+M-ME-K6-TZ4,Männer,Mensa,Text + Zeichnung,No,,,,,,
+M-ME-K6-TZ5,Männer,Mensa,Text + Zeichnung,No,,,,,,
+M-ME-K6-TZ6,Männer,Mensa,Text + Zeichnung,Yes,Polizei,Kommentar,,,Keine,Zeitlos
+M-ME-K6-TZ7,Männer,Mensa,Text + Zeichnung,Yes,Kapitalismuskritik,Kommentar,,,Keine,Zeitlos
+M-ME-K6-TZ8,Männer,Mensa,Text + Zeichnung,No,,,,,,
+M-ME-K6-TZ9,Männer,Mensa,Text + Zeichnung,No,,,,,,
+M-ME-K6-Z1,Männer,Mensa,Zeichnung,No,,,,,,
+M-ME-K6-Z2,Männer,Mensa,Zeichnung,No,,,,,,
+M-ME-K6-Z3,Männer,Mensa,Zeichnung,No,,,,,,
+M-ME-K7-P1,Männer,Mensa,Poster,No,,,,,,
+M-ME-K7-S1,Männer,Mensa,Sticker,No,,,,,,
+M-ME-K7-S2,Männer,Mensa,Sticker,No,,,,,,
+M-ME-K7-S3,Männer,Mensa,Sticker,No,,,,,,
+M-ME-K7-S4,Männer,Mensa,Sticker,Yes,Kommunismus / Marxismus,Kommentar,Abgekratzt,Überklebend,"QR-Code, Soziale Medien, Webseite",Zeitlos
+M-ME-K7-S5,Männer,Mensa,Sticker,Yes,Antifaschismus / gegen Rechtsextremismus,Kommentar,,Überklebend,Keine,Zeitlos
+M-ME-K7-S6,Männer,Mensa,Sticker,No,,,,,,
+M-ME-K7-S7,Männer,Mensa,Sticker,No,,,,,,
+M-ME-K7-S8,Männer,Mensa,Sticker,Yes,Nachhaltigkeit / Umwelt,Kommentar,Abgekratzt,,"QR-Code, Webseite",Zeitangabe (z.B. Datum)
+M-ME-K7-S9,Männer,Mensa,Sticker,No,,,,,,
+M-ME-K7-S10,Männer,Mensa,Sticker,Yes,"Kapitalismuskritik, Nachhaltigkeit / Umwelt",Kommentar,Abgekratzt,,Keine,Zeitlos
+M-ME-K7-S11,Männer,Mensa,Sticker,Yes,"Nachhaltigkeit / Umwelt, Partei",Kommentar,Abgekratzt,,Keine,Zeitlos
+M-ME-K7-S12,Männer,Mensa,Sticker,No,,,,,,
+M-ME-K7-S13,Männer,Mensa,Sticker,Yes,Nachhaltigkeit / Umwelt,Kommentar,"Abgekratzt, Überschrieben",,Keine,Zeitbezug (z.B. Ereignis)
+M-ME-K7-S14,Männer,Mensa,Sticker,No,,,,,,
+M-ME-K7-T1,Männer,Mensa,Text,No,,,,,,
+M-ME-K7-T2,Männer,Mensa,Text,Yes,Israel / Palästina,Antwort,,,Keine,Zeitlos
+M-ME-K7-T3,Männer,Mensa,Text,No,,,,,,
+M-ME-K7-T4,Männer,Mensa,Text,Yes,Sonstige,Kommentar,,,Keine,Zeitlos
+M-ME-K7-T5,Männer,Mensa,Text,No,,,,,,
+M-ME-K7-T6,Männer,Mensa,Text,No,,,,,,
+M-ME-K7-T7,Männer,Mensa,Text,Yes,Polizei,Kommentar,,,Keine,Zeitlos
+M-ME-K7-T8,Männer,Mensa,Text,Yes,Kapitalismuskritik,Kommentar,,Überschreibend,Keine,Zeitlos
+M-ME-K7-T9,Männer,Mensa,Text,No,,,,,,
+M-ME-K7-T10,Männer,Mensa,Text,No,,,,,,
+M-ME-K7-T11,Männer,Mensa,Text,No,,,,,,
+M-ME-K7-T12,Männer,Mensa,Text,No,,,,,,
+M-ME-K7-T13,Männer,Mensa,Text,No,,,,,,
+M-ME-K7-TZ7,Männer,Mensa,Text + Zeichnung,No,,,,,,
+M-ME-K7-T14,Männer,Mensa,Text,No,,,,,,
+M-ME-K7-TZ1,Männer,Mensa,Text + Zeichnung,Yes,Israel / Palästina,Kommentar,Überschrieben,,Keine,Zeitlos
+M-ME-K7-TZ6,Männer,Mensa,Text + Zeichnung,No,,,,,,
+M-ME-K7-TZ5,Männer,Mensa,Text + Zeichnung,No,,,,,,
+M-ME-K7-TZ4,Männer,Mensa,Text + Zeichnung,Yes,"Antifaschismus / gegen Rechtsextremismus, Nachhaltigkeit / Umwelt",Kommentar,,,Keine,Zeitlos
+M-ME-K7-TZ3,Männer,Mensa,Text + Zeichnung,No,,,,,,
+M-ME-K7-TZ2,Männer,Mensa,Text + Zeichnung,Yes,Israel / Palästina,Antwort,Überklebt,Überschreibend,Keine,Zeitlos
+M-ME-K7-Z1,Männer,Mensa,Zeichnung,No,,,,,,
+M-ME-K7-Z2,Männer,Mensa,Zeichnung,Yes,Kommunismus / Marxismus,Kommentar,,,Keine,Zeitlos
+M-ME-K7-Z3,Männer,Mensa,Zeichnung,Yes,"Kapitalismuskritik, Nachhaltigkeit / Umwelt",Antwort,,,Keine,Zeitlos
+M-ME-K7-Z4,Männer,Mensa,Zeichnung,No,,,,,,
+M-ME-K7-TZ8,Männer,Mensa,Text + Zeichnung,No,,,,,,
