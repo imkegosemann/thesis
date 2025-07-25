@@ -24,16 +24,9 @@ Ziel ist es, Transparenz und Nachvollziehbarkeit zu garantieren.
 Die enthaltenen Daten und Bilder sind **read‑only** und dürfen **nicht kopiert, weiterverbreitet oder verändert werden**, es sei denn, sie werden mit **expliziter Referenz** auf dieses Repository verwendet.  
 Eine solche Nutzung ist **nur erlaubt**, wenn im Text oder der Veröffentlichung ein Hinweis wie folgt enthalten ist:
 
-> “Daten/Bilder entnommen aus Gosemann (2025), 'Anonyme Stimmen auf dem stillen Örtchen: Latrinalia als Medien für gesellschaftliche Diskurse - Eine qualitative Inhaltsanalyse', GitHub Repository: ‘thesis’, GitHub-Link: 'https://github.com/imkegosemann/thesis'.”
+> “Daten/Bilder entnommen aus Gosemann (2025), GitHub Repository: ‘thesis’, GitHub-Link: 'https://github.com/imkegosemann/thesis'.”
 
 Formal gesprochen entspricht diese Bedingung der Creative Commons‑Lizenz **CC BY‑ND**. Die Daten dürfen nicht reproduziert oder neu verwertet werden ohne Quellverweis.
-
-
-## Zitation
-
-Wenn du auf dieses Repository oder die darin enthaltenen Daten und Fotos in anderen wissenschaftlichen Arbeiten verweist, nutze folgenden Zitationsstil:
-
->Imke Gosemann (2025), Anonyme Stimmen auf dem stillen Örtchen: Latrinalia als Medien für gesellschaftliche Diskurse - Eine qualitative Inhaltsanalyse', Repository „Masterarbeit Datenbank und Fotoarchiv“, GitHub 'https://github.com/imkegosemann/thesis'.
 
 ---
 
