@@ -14,8 +14,8 @@ Ziel ist es, Transparenz und Nachvollziehbarkeit zu garantieren.
 
 ## Kontakt & Verantwortlichkeit
 
-- **Projektleitung / Autorin**: Imke Gosemann  
-  Masterstudentin Medienwissenschaften  
+- **Projekt**: Anonyme Stimmen auf dem stillen Örtchen: Latrinalia als Medien für gesellschaftliche Diskurse - Eine qualitative Inhaltsanalyse
+- **Autorin**: Imke Gosemann - Masterstudentin Medienwissenschaften  
 - **E‑Mail**: imke.gosemann@gmail.com  
 - **Institution**: Technische Universität Berlin 
 
